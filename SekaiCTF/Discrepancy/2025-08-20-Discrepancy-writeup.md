@@ -6,7 +6,7 @@ points: 100
 author: nagari
 date: 2025-08-20
 competition: "SekaiCTF 2025"
-----------------------------
+---
 
 ## Discrepancy - SekaiCTF 2025 Write-up
 
