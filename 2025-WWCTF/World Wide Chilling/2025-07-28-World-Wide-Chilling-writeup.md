@@ -1,13 +1,4 @@
----
-layout: post
-title:  "World Wide Chilling - WWCTF 2025 Write-up"
-category: osint
-points: 472
-author: nagari
-date: 2025-07-28
-competition: "World Wide CTF 2025"
----
-## World Wide Chilling - World Wide CTF 2025 Write-up
+# World Wide Chilling - World Wide CTF 2025 Write-up
 
 
 ![Banner](assets/files/wwc/banner.png)
